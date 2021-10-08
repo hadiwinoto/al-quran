@@ -1,0 +1,8 @@
+{
+  "name": "al-quran",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "be34963a"
+}
